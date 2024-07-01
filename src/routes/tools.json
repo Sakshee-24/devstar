@@ -106,6 +106,37 @@
             }
         ]
     },
+    "encryptor-decryptor": {
+        "name": "Text Encryption Decryption Tool",
+        "link": "/encryptor-decryptor",
+        "description": "A Text Encryption Decryption Tool lets you scramble plain text into a coded message and then unscramble it back. These tools are useful for protecting sensitive information you share online.",
+        "contributors": [
+            {
+                "name": "ANKITA MISHRA",
+                "githubId": "ANKITAMISHRA29"
+            },
+            {
+                "name": "Sakshi",
+                "githubId": "Sakshee-24"
+            },
+            {
+                "name": "Navjeet",
+                "githubId": "navjeet-lohan"
+            },
+            {
+                "name": "Ravish",
+                "githubId": "RavishRanjancodes"
+            },
+            {
+                "name": "Kaneez",
+                "githubId": "Kaneezfatima19"
+            },
+            {
+                "name": "Swapnil",
+                "githubId": "swapniljoshi123"
+            }
+        ]
+    },
     "file-converter": {
         "name": "File Converter",
         "link": "/file-converter",

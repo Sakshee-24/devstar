@@ -1,4 +1,6 @@
 <script>
+	export let data;
+
 	var encryptOutput; //Encryption output variable
 	var decryptOutput; //Decryption output variable
 
@@ -15,19 +17,13 @@
 	}
 </script>
 
-<body class="bg-white dark:bg-gray-900">
-	<div class="py-14 px-4 mx-auto max-w-screen-xl lg:px-12 grid space-y-10">
-		<h1
-			class="text-3xl sm:text-4xl font-bold tracking-tight leading-none text-gray-900 dark:text-white"
-		>
-			Text Encryption / Decryption Tool
-		</h1>
-		<hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
+<section class="bg-white dark:bg-gray-900">
+	<div class="py-0 px-4 mx-auto max-w-screen-xl lg:px-12 grid space-y-10">
 
 	</div>
 
 	<div
-		class="py-4 px-4 mx-auto rounded-lg overflow-hidden border border-gray-300 mx-auto max-w-screen-xl lg:px-12"
+		class="py-4 px-4 mx-auto  mx-auto max-w-screen-xl lg:px-12"
 	>
 		<div
 			class="card p-8 relative items-center mx-auto max-w-screen-xl overflow-hidden rounded-lg"
@@ -101,4 +97,4 @@
 			></div>
 		</div>
 	</div>
-</body>
+</section>
