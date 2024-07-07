@@ -193,7 +193,7 @@
 					class="py-2.5 px-5 ms-2 text-sm font-medium text-white focus:outline-none bg-blue-600 rounded-lg border border-blue-700 hover:bg-blue-700 hover:text-white focus:z-10 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-800"
 					on:click={downloadTXT}
 				>Download as TXT</button>
-			</div>
+      </div>
 		</div>
 	</div>
 </section>
