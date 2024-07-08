@@ -6,7 +6,7 @@
 	var encryptOutput; //Encryption output variable
 	var decryptOutput; //Decryption output variable
 
-  //Kaneez Fatima Bohra's code will be written here!
+ 
 
 	function encrypt(input) {
 		/* -----------------ENCRYPTION--------------------- */
