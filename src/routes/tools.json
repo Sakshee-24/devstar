@@ -80,6 +80,17 @@
             }
         ]
     },
+    "encryptor-decryptor": {
+        "name": "Text Encryption/Decryption",
+        "link": "/encryptor-decryptor",
+        "description": "",
+        "contributors": [
+            {
+                "name": "Kaneez Fatima",
+                "githubId": "kaneezfatima19"
+            }
+        ]
+    },
     "css-animator": {
         "name": "CSS Animator",
         "link": "/css-animator",
