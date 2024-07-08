@@ -25,10 +25,10 @@
 	  <input type="text" class="border border-gray-300 rounded px-2 py-1 w-full" bind:value={message} />
 	</label>
   
-	<!-- <label class="block mb-2">
+	<label class="block mb-2">
 	  Secret Key:
 	  <input type="text" class="border border-gray-300 rounded px-2 py-1 w-full" bind:value={secretKey} />
-	</label> -->
+	</label>
   
 	<button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mr-2" on:click={encryptMessage}>Encrypt</button>
 	<button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded" on:click={decryptMessage}>Decrypt</button>
